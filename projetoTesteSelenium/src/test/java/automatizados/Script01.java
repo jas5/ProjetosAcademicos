@@ -1,3 +1,5 @@
+package automatizados;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -15,9 +17,9 @@ import static org.junit.Assert.*;
  *
  * @author KillerBeeTwo
  */
-public class Script02 {
+public class Script01 {
     
-    public Script02() {
+    public Script01() {
     }
     
     @BeforeClass
