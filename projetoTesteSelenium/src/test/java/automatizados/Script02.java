@@ -13,9 +13,9 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
+/** Script usado para testar os dados de Endereço do formulario index.html
  *
- * @author KillerBeeTwo
+ * @author Juniel
  */
 public class Script02 {
     

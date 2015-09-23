@@ -13,9 +13,9 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
+/** Usado para testar os Dados de login do formulario index
  *
- * @author KillerBeeTwo
+ * @author Juniel
  */
 public class Script03 {
     
